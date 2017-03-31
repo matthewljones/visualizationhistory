@@ -1,9 +1,12 @@
 # history of visualization / visualization in history
+## April 8, 2017
 
 ## workshop
 
-## April 8, 2017
-## Studio@Butler
+This workshop brings together historians, sociologists and anthropologists studying practices of data visualization with historians and social scientists using many of those practices in the pursuit of history. The goal is a more reflective critical practice of visualizations within the social sciences and a less anachronistic technical history of data visualization practices, by bringing together the methodological sophistication of science and technology studies, digitial humanities, and media theory.
+
+
+## [Studio@Butler](https://studio.cul.columbia.edu/) 
 with the support of the Sloan Foundation, the Center for Science and Society, and the Leibniz Fund
 
 ## Program
@@ -24,4 +27,6 @@ with the support of the Sloan Foundation, the Center for Science and Society, an
     3:50-4:25	    Ben Schmidt		    Drawing the frontier line at the US Census, 1870-1920							
     4:30-5:20	    Scott Weingart		What Networks Argue: Visual Metaphors in History and Historiography	
 
+A workshop of the Big Data and Science Studies Cluster of the Center for Science and Society, Columbia.
 
+Please direct all inquiries to Matthew Jones, mj340@columbia.edu.
