@@ -8,7 +8,7 @@ with the support of the Sloan Foundation, the Center for Science and Society, an
 
 ## Program
 
-----------|----------------------|---------------------------------------------------------------------------------|
+|----------|----------------------|---------------------------------------------------------------------------------|
 8:45-9:00	    Introductions									
 9:00-9:35	    Alex Compolo		  Perception and Processing: Cognitive Influences on Data Visualization							
 9:40-10:15	  Alma Steingart		A Phenomenological Experiment: Rendering Topology with Computer Graphics							
