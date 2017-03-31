@@ -21,7 +21,7 @@ with the support of the Sloan Foundation, the Center for Science and Society, an
 |12:00-1:00	| |LUNCH									
 |1:00-1:35	|Lauren Klein|Elizabeth Peabody’s *Chronological History*: Knowledge, Labor, Embodiment, and Design							
 |1:40-2:15	|Eamon Bell|Seeing ear to ear: Mixed metaphors in musical data visualization							
-|2:20-2:55	|Aaron Plasek| New Historical Knowledge: Using 21st C machine learning to gain new insight into early 1950s computing "trading zones" 							
+|2:20-2:55	|Aaron Plasek| New Historical Knowledge: 21st C machine learning to examine mid-20th C ‘trading zones’ of computation 							
 |3-3:10| |coffee break 									
 |3:10-3:45|Crystal Lee|Lining Things Up: Mapping Time, Power, and Politics in Joseph Priestley’s *Chart of History*.						
 |3:50-4:25|Ben Schmidt|Drawing the frontier line at the US Census, 1870-1920							
