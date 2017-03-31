@@ -28,7 +28,7 @@ with the support of the Sloan Foundation, the Center for Science and Society, an
                                                      and Politics in Joseph Priestley’s *Chart of History*.						
     3:50-4:25	    Ben Schmidt		    Drawing the frontier line at the US Census, 1870-1920							
     4:30-5:05	    Scott Weingart	    What Networks Argue: Visual Metaphors in History and Historiography
-    5:10-6          everybody           up of wrap / reflection
+    5:10-6:00       everybody           up of wrap / reflection
 
 A workshop of the Big Data and Science Studies Cluster of the Center for Science and Society, Columbia.
 
