@@ -9,24 +9,101 @@ This workshop brings together historians, sociologists and anthropologists study
 ## [Studio@Butler](https://studio.cul.columbia.edu/) 
 with the support of the Sloan Foundation, the Center for Science and Society, and the Leibniz Fund
 
+
 ## Program
-|time|name|title|
-| --- | --- | --- |
-|8:45-9:00| |Introductions 									
-|9:00-9:35	|Alex Compolo|Perception and Processing: Cognitive Influences on Data Visualization							
-|9:40-10:15	|Alma Steingart|A Phenomenological Experiment: Rendering Topology with Computer Graphics							
-|10:20-10:30| |coffee break 									
-|10:30-11:05| Matthew Jones|Visualizing data and augmenting cognition from John Tukey to ggplot2 							
-|11:10-11:45|Ted Byfield|Six Miles From Earth, Loosed From Its Dream of Life.							
-|12:00-1:00	| |LUNCH									
-|1:00-1:35	|Lauren Klein|Elizabeth Peabody’s *Chronological History*: Knowledge, Labor, Embodiment, and Design							
-|1:40-2:15	|Eamon Bell|Seeing ear to ear: Mixed metaphors in musical data visualization							
-|2:20-2:55	|Aaron Plasek| New Historical Knowledge: 21st C machine learning to examine mid-20th C ‘trading zones’ of computation 							
-|3-3:10| |coffee break 									
-|3:10-3:45|Crystal Lee|Lining Things Up: Mapping Time, Power, and Politics in Joseph Priestley’s *Chart of History*.						
-|3:50-4:25|Ben Schmidt|Drawing the frontier line at the US Census, 1870-1920							
-|4:30-5:20|Scott Weingart|What Networks Argue: Visual Metaphors in History and Historiography	
-|5:10-6:00|everybody|up of wrap / reflection
+
+<table style="width:17%;">
+<colgroup>
+<col width="5%" />
+<col width="5%" />
+<col width="5%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>time</th>
+<th>name</th>
+<th>title</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>8:45-9:00</td>
+<td></td>
+<td>Introductions</td>
+</tr>
+<tr class="even">
+<td>9:00-9:35</td>
+<td>Alex Compolo</td>
+<td>Perception and Processing: Cognitive Influences on Data Visualization</td>
+</tr>
+<tr class="odd">
+<td>9:40-10:15</td>
+<td>Alma Steingart</td>
+<td>A Phenomenological Experiment: Rendering Topology with Computer Graphics</td>
+</tr>
+<tr class="even">
+<td>10:20-10:30</td>
+<td></td>
+<td>coffee break</td>
+</tr>
+<tr class="odd">
+<td>10:30-11:05</td>
+<td>Matthew Jones</td>
+<td>Visualizing data and augmenting cognition from John Tukey to ggplot2</td>
+</tr>
+<tr class="even">
+<td>11:10-11:45</td>
+<td>Ted Byfield</td>
+<td>Six Miles From Earth, Loosed From Its Dream of Life.</td>
+</tr>
+<tr class="odd">
+<td>12:00-1:00</td>
+<td></td>
+<td>LUNCH</td>
+</tr>
+<tr class="even">
+<td>1:00-1:35</td>
+<td>Lauren Klein</td>
+<td>Elizabeth Peabody’s <em>Chronological History</em>: Knowledge, Labor, Embodiment, and Design</td>
+</tr>
+<tr class="odd">
+<td>1:40-2:15</td>
+<td>Eamon Bell</td>
+<td>Seeing ear to ear: Mixed metaphors in musical data visualization</td>
+</tr>
+<tr class="even">
+<td>2:20-2:55</td>
+<td>Aaron Plasek</td>
+<td>New Historical Knowledge: 21st C machine learning to examine mid-20th C ‘trading zones’ of computation </td>
+</tr>
+<tr class="odd">
+<td>3-3:10</td>
+<td></td>
+<td>coffee break</td>
+</tr>
+<tr class="even">
+<td>3:10-3:45</td>
+<td>Crystal Lee</td>
+<td>Lining Things Up: Mapping Time, Power, and Politics in Joseph Priestley’s <em>Chart of History</em>.</td>
+</tr>
+<tr class="odd">
+<td>3:50-4:25</td>
+<td>Ben Schmidt</td>
+<td>Drawing the frontier line at the US Census, 1870-1920</td>
+</tr>
+<tr class="even">
+<td>4:30-5:20</td>
+<td>Scott Weingart</td>
+<td>What Networks Argue: Visual Metaphors in History and Historiography</td>
+</tr>
+<tr class="odd">
+<td>5:10-6:00</td>
+<td>everybody</td>
+<td>up of wrap / reflection</td>
+</tr>
+</tbody>
+</table>
+
 
 A workshop of the Big Data and Science Studies Cluster of the Center for Science and Society, Columbia.
 
