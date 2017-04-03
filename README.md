@@ -6,8 +6,11 @@
 This workshop brings together historians, sociologists and anthropologists studying practices of data visualization with historians and social scientists using many of those practices in the pursuit of history. The goal is a more reflective critical practice of visualizations within the social sciences and a less anachronistic technical history of data visualization practices, by bringing together the methodological sophistication of science and technology studies, digitial humanities, and media theory.
 
 held at 
+
 ###[Studio@Butler](https://studio.cul.columbia.edu/) 
+
 at [Butler Library](https://www.google.com/maps/place/Butler+Library/@40.8064029,-73.9654085,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2f63c31da1355:0xf11ddb8a69ec829b!8m2!3d40.8064029!4d-73.9632198), Columbia University
+
 with the support of the Sloan Foundation, the Center for Science and Society, and the Leibniz Fund
 
 
