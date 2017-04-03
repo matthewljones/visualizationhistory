@@ -107,4 +107,4 @@ with the support of the Sloan Foundation, the Center for Science and Society, an
 
 A workshop of the Big Data and Science Studies Cluster of the Center for Science and Society, Columbia.
 
-Please direct all inquiries to Matthew Jones, mj340@columbia.edu.
+Please direct all inquiries to Matthew Jones, mj340@columbia.edu. If you don't have a Columbia ID, please let me know that you are coming so that I might clear you with the guard.
