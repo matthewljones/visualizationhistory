@@ -7,7 +7,7 @@ This workshop brings together historians, sociologists and anthropologists study
 
 held at 
 
-###[Studio@Butler](https://studio.cul.columbia.edu/) 
+### [Studio@Butler](https://studio.cul.columbia.edu/) 
 
 at [Butler Library](https://www.google.com/maps/place/Butler+Library/@40.8064029,-73.9654085,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2f63c31da1355:0xf11ddb8a69ec829b!8m2!3d40.8064029!4d-73.9632198), Columbia University
 
