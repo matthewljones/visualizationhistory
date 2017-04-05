@@ -42,8 +42,8 @@ with the support of the Sloan Foundation, the Center for Science and Society, an
 </tr>
 <tr class="odd">
 <td>9:40-10:15</td>
-<td>Alma Steingart</td>
-<td>A Phenomenological Experiment: Rendering Topology with Computer Graphics</td>
+<td>TBA</td>
+<td>TBA</td>
 </tr>
 <tr class="even">
 <td>10:20-10:30</td>
