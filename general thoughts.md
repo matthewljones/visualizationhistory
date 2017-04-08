@@ -25,3 +25,5 @@
 - a historical practice
 
 ### lying / falsehood
+  
+  - how historicize / explain
