@@ -67,7 +67,7 @@ with the support of the Sloan Foundation, the Center for Science and Society, an
 </tr>
 <tr class="even">
 <td>1:40-2:15</td>
-<td>Eamon Bell</td>
+<td>Eamonn Bell</td>
 <td>Seeing ear to ear: Mixed metaphors in musical data visualization</td>
 </tr>
 <tr class="odd">
