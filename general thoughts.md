@@ -8,6 +8,8 @@
 
 ### beyond a representational model
 
+### aesthetics in a non-formalist mood
+
 ### labor 
 
 - labor of production
