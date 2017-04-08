@@ -91,7 +91,7 @@ with the support of the Sloan Foundation, the Center for Science and Society, an
 <td>Drawing the frontier line at the US Census, 1870-1920</td>
 </tr>
 <tr class="odd">
-<td>4:30-5:20</td>
+<td>4:30-5:05</td>
 <td>Scott Weingart</td>
 <td>What Networks Argue: Visual Metaphors in History and Historiography</td>
 </tr>
