@@ -26,4 +26,6 @@
 
 ### lying / falsehood
   
-  - how historicize / explain
+  - infrastructural inversion
+  
+  - how historicize
